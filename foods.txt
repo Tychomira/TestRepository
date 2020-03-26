@@ -1,5 +1,3 @@
 pizza
 porkolaki
 apple
-toast 
-cake
